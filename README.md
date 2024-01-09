@@ -9,8 +9,4 @@ Este repositório contém scripts e configurações para realizar testes de carg
 
 Os resultados dos testes de carga são automaticamente gerados e disponibilizados [aqui](https://github.com/Estima01/k6-charge/actions/workflows/pages/pages-build-deployment). Os gráficos e estatísticas fornecem insights valiosos sobre o desempenho do sistema durante os testes de carga.
 
-### Métricas Principais
 
-- **RPS (Requisições por Segundo):** O número de requisições que o sistema pode processar por segundo.
-- **Tempo de Resposta:** O tempo médio que o sistema leva para responder a uma requisição.
-- **Erro de Taxa de Resposta:** A porcentagem de respostas com erro em relação ao total de requisições.
