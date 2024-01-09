@@ -1,0 +1,1 @@
+[![pages-build-deployment](https://github.com/Estima01/k6-charge/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main&event=page_build)](https://github.com/Estima01/k6-charge/actions/workflows/pages/pages-build-deployment)
